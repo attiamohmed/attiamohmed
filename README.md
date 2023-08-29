@@ -6,7 +6,7 @@ A dedicated computer science student at Algonquin College specializing in progra
 
 
 ## Skills:
-* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>JS
+* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>JS
 *  / HTML / CSS/ PHP/ SQL/ JAVA OOP/ Ubuntu/ Linux/ Windows 7, 10, 11/ Eclipse/ Visual Studio/ IntelliJ/ like MySQL, Oracle, MS Access, Word, Excel, PowerPoint, Project/ SQL Server/ Photoshop/ VMWare/ WordPress
 
 
