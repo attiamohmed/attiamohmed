@@ -2,7 +2,7 @@
 ## Software Developer 
 ![Software Developer ](https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg)
 
-### A dedicated computer science student at Algonquin College specializing in programming and software development. I actively pursue knowledge and skills in various programming languages and problem-solving techniques. I stay updated on emerging technologies and participate in hackathons and coding competitions. Additionally, I engage in student tech clubs and online courses to enhance my expertise. I am committed to academic excellence and embrace the dynamic nature of computer science.
+#### A dedicated computer science student at Algonquin College specializing in programming and software development. I actively pursue knowledge and skills in various programming languages and problem-solving techniques. I stay updated on emerging technologies and participate in hackathons and coding competitions. Additionally, I engage in student tech clubs and online courses to enhance my expertise. I am committed to academic excellence and embrace the dynamic nature of computer science.
 
 
 ## Skills:
