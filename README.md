@@ -6,7 +6,7 @@ A dedicated computer science student at Algonquin College specializing in progra
 
 
 ## Skills:
-<img src='https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png' alt='github' height='30'> <img src='[https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)' alt='github' height='30'>JS
+<img src='https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png' alt='github' height='30'> <img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png' alt='github' height='30'>JS
   / HTML / CSS/ PHP/ SQL/ JAVA OOP/ Ubuntu/ Linux/ Windows 7, 10, 11/ Eclipse/ Visual Studio/ IntelliJ/ like MySQL, Oracle, MS Access, Word, Excel, PowerPoint, Project/ SQL Server/ Photoshop/ VMWare/ WordPress
 
 
