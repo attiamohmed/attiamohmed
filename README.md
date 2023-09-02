@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed
 
 ## Software Developer 
-![Software Developer]("https://wallpaperaccess.com/full/7167568.jpg")
+![Software Developer](https://wallpaperaccess.com/full/7167568.jpg)
 
 #### A dedicated computer science student at Algonquin College specializing in programming and software development. I actively pursue knowledge and skills in various programming languages and problem-solving techniques. I stay updated on emerging technologies and participate in hackathons and coding competitions. Additionally, I engage in student tech clubs and online courses to enhance my expertise. I am committed to academic excellence and embrace the dynamic nature of computer science.
 
