@@ -15,7 +15,7 @@ I am a passionate and meticulous **Software QA Tester** and **Full Stack Develop
 - 🌱 I’m currently exploring advanced automation testing techniques.
 - 🔭 I’m working on developing a cryptocurrency trading algorithm for Solana (SOL).
 - 💬 Ask me about software testing, full stack development, or anything tech-related.
-- ⚡ Fun fact: I can lift 100-pound dumbbells for chest press!
+- ⚡ Fun fact: I can lift 120-pound dumbbells for chest press!
 
 ---
 
@@ -66,7 +66,7 @@ An Android application that interacts with a remote API to fetch and display dat
 
 ### 📫 Contact Me
 - **Email:** mohamedattia2034@gmail.com
-- **LinkedIn:** [linkedin.com/in/attiamohmed](https://www.linkedin.com/in/attiamohmed)
-- **Website:** [yourwebsite.com](https://mohamedattia.online)
+- **LinkedIn:** [Mohamed Attia](https://www.linkedin.com/in/attiamohmed)
+- **Website:** [mohamedattia.online](https://mohamedattia.online)
 
 ![Footer](https://yourimageurl.com/footer.png)
