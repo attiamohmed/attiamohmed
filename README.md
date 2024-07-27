@@ -27,6 +27,21 @@ I am a passionate and meticulous **Software QA Tester** and **Full Stack Develop
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -38,20 +53,20 @@ I am a passionate and meticulous **Software QA Tester** and **Full Stack Develop
 
 ### 🚀 Projects
 
-#### [Crypto Trading Algorithm](https://github.com/attiamohmed/crypto-trading-algorithm)
-A sophisticated algorithm for trading cryptocurrency on the Solana (SOL) network. Features include real-time data analysis, automated trading strategies, and risk management.
+#### [GPT-3 Project](https://github.com/attiamohmed/gpt3)
+An implementation of OpenAI's GPT-3 model for natural language processing tasks. This project demonstrates the capabilities of GPT-3 in generating human-like text and understanding context.
 
-#### [Student Portal QA](https://github.com/attiamohmed/student-portal-qa)
-Comprehensive manual and automated testing for a student portal. Ensures functionality, security, and performance through rigorous testing methodologies.
+#### [Gericht Restaurant Website](https://github.com/attiamohmed/gericht_restaurant_website)
+A modern, responsive restaurant website built using React, HTML, CSS, and JavaScript. The website features a sleek design, interactive elements, and an intuitive user interface.
 
-#### [Full Stack E-Commerce Platform](https://github.com/attiamohmed/full-stack-ecommerce)
-A complete e-commerce platform built with React, Node.js, and SQL. Includes user authentication, product management, shopping cart, and order processing.
+#### [Android API Project](https://github.com/attiamohmed/Android_API_Project)
+An Android application that interacts with a remote API to fetch and display data. This project showcases my skills in mobile app development and API integration.
 
 ---
 
 ### 📫 Contact Me
-- **Email:** mohamed.attia@example.com
+- **Email:** mohamedattia2034@gmail.com
 - **LinkedIn:** [linkedin.com/in/attiamohmed](https://www.linkedin.com/in/attiamohmed)
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
+- **Website:** [yourwebsite.com](https://mohamedattia.online)
 
 ![Footer](https://yourimageurl.com/footer.png)
