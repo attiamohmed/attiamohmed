@@ -66,7 +66,7 @@ An Android application that interacts with a remote API to fetch and display dat
 
 ### 📫 Contact Me
 - **Email:** mohamedattia2034@gmail.com
-- **LinkedIn:** [Mohamed Attia](https://www.linkedin.com/in/attiamohmed)
+- **LinkedIn:** [Mohamed Attia](https://www.linkedin.com/in/mohamed-attia-844566283/)
 - **Website:** [mohamedattia.online](https://mohamedattia.online)
 
 ![Footer](https://yourimageurl.com/footer.png)
