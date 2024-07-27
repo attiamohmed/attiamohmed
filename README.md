@@ -10,7 +10,7 @@
 ---
 
 ### 👋 About Me
-I am a passionate and meticulous **Software QA Tester** and **Full Stack Developer** with a strong background in programming and software development. Currently a computer science student at Algonquin College, I am dedicated to continuously expanding my knowledge and expertise through hands-on projects, hackathons, and coding competitions.
+I am a passionate and meticulous **Software QA Tester** and **Full Stack Developer** with a strong background in programming and software development. Currently a computer science student at Algonquin College and working with Algonquin College as a Software QA Tester on the R3 project, I am dedicated to continuously expanding my knowledge and expertise through hands-on projects, hackathons, and coding competitions.
 
 - 🌱 I’m currently exploring advanced automation testing techniques.
 - 🔭 I’m working on developing a cryptocurrency trading algorithm for Solana (SOL).
