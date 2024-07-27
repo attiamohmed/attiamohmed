@@ -1,5 +1,3 @@
-![Header](Leaves.png)
-
 # Mohamed Attia
 
 **Software QA Tester | Full Stack Developer**
