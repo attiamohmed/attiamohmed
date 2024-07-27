@@ -4,7 +4,7 @@
 
 **Software QA Tester | Full Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/attiamohmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-attia-844566283/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/attiamohmed)
 
 ---
