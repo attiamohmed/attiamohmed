@@ -1,4 +1,4 @@
-![Header](UP.png)
+![Header](Leaves.png)
 
 # Mohamed Attia
 
@@ -69,4 +69,4 @@ An Android application that interacts with a remote API to fetch and display dat
 - **LinkedIn:** [Mohamed Attia](https://www.linkedin.com/in/mohamed-attia-844566283/)
 - **Website:** [mohamedattia.online](https://mohamedattia.online)
 
-![Footer](Down.png)
+![Footer](Leaves.png)
