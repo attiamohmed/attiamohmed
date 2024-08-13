@@ -57,6 +57,9 @@ An implementation of OpenAI's GPT-3 model for natural language processing tasks.
 #### [Gericht Restaurant Website](https://github.com/attiamohmed/gericht_restaurant_website)
 A modern, responsive restaurant website built using React, HTML, CSS, and JavaScript. The website features a sleek design, interactive elements, and an intuitive user interface.
 
+#### [HooBank Website Showcase](https://github.com/attiamohmed/HooBank_Business_Website)
+A comprehensive financial services platform designed using React and Vite, styled with CSS for a modern, user-friendly interface. This project demonstrates cutting-edge frontend techniques and robust financial application functionality to enhance user engagement and security.
+
 #### [Android API Project](https://github.com/attiamohmed/Android_API_Project)
 An Android application that interacts with a remote API to fetch and display data. This project showcases my skills in mobile app development and API integration.
 
